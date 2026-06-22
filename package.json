@@ -1,0 +1,10 @@
+{
+  "name": "eason-eddie-icrt-news-for-kids",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/fetch-icrt.mjs",
+    "serve": "python3 -m http.server 4173"
+  }
+}

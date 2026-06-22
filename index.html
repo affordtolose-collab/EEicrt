@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Eason & Eddie 的 ICRT News for Kids</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">ICRT News for Kids（國小）</p>
+        <h1>Eason & Eddie 英文新聞小站</h1>
+      </div>
+      <button class="font-toggle" id="fontToggle" type="button" aria-pressed="false">大字</button>
+    </header>
+
+    <main>
+      <section class="player-band" aria-label="目前播放">
+        <div class="art-panel" id="artPanel">
+          <span class="art-icon" id="artIcon" aria-hidden="true">📰</span>
+          <span class="art-label" id="artLabel">今日新聞</span>
+        </div>
+
+        <div class="episode-main">
+          <p class="date-pill" id="activeDate">載入中</p>
+          <h2 id="activeTitle">正在整理最新新聞</h2>
+          <audio id="audioPlayer" controls preload="none"></audio>
+          <div class="big-actions">
+            <button id="prevBtn" type="button">上一篇</button>
+            <button id="nextBtn" type="button">下一篇</button>
+          </div>
+        </div>
+      </section>
+
+      <nav class="tabs" aria-label="逐字稿分段">
+        <button class="tab active" data-section="story" type="button">故事</button>
+        <button class="tab" data-section="vocabulary" type="button">單字</button>
+        <button class="tab" data-section="quiz" type="button">測驗</button>
+        <button class="tab" data-section="answers" type="button">答案</button>
+      </nav>
+
+      <section class="transcript-panel" aria-label="逐字稿">
+        <pre id="transcriptText">載入中...</pre>
+        <a id="sourceLink" class="source-link" href="#" target="_blank" rel="noreferrer">ICRT 原始頁面</a>
+      </section>
+
+      <section class="library-section" aria-label="所有新聞">
+        <div class="library-header">
+          <div>
+            <p class="eyebrow">最近一年</p>
+            <h2>選一篇來聽</h2>
+          </div>
+          <p id="countText" class="count-text"></p>
+        </div>
+
+        <div class="controls">
+          <label>
+            <span>月份</span>
+            <select id="monthFilter"></select>
+          </label>
+          <label>
+            <span>搜尋</span>
+            <input id="searchInput" type="search" placeholder="輸入關鍵字" />
+          </label>
+        </div>
+
+        <div class="episode-list" id="episodeList"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>內容來源：ICRT News Lunchbox。此小站整理給家人練習聽讀使用。</p>
+      <p id="updatedText"></p>
+    </footer>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
