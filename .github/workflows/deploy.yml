@@ -33,8 +33,11 @@ jobs:
         with:
           node-version: 22
 
-      - name: Update bilingual episodes
-        run: npm run update:all
+      - name: Update ICRT episodes
+        run: npm run update || echo "ICRT update skipped; using the latest saved data."
+
+      - name: Update NER episodes
+        run: npm run update:ner || echo "NER update skipped; using the latest saved data."
 
       - name: Save updated episode data
         run: |
