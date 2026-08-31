@@ -3,19 +3,30 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Eason & Eddie 的 ICRT News for Kids</title>
+    <title>Eason & Eddie 的雙語收聽小站</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <header class="topbar">
       <div>
-        <p class="eyebrow">ICRT News for Kids（國小）</p>
-        <h1>Eason & Eddie 英文新聞小站</h1>
+        <p class="eyebrow" id="channelEyebrow">雙語學習頻道</p>
+        <h1>Eason & Eddie 雙語收聽小站</h1>
       </div>
       <button class="font-toggle" id="fontToggle" type="button" aria-pressed="false">大字</button>
     </header>
 
     <main>
+      <nav class="channel-switcher" aria-label="選擇頻道">
+        <button class="channel-button active" data-channel="icrt" type="button">
+          <span>ICRT</span>
+          <strong>News for Kids</strong>
+        </button>
+        <button class="channel-button" data-channel="ner" type="button">
+          <span>NER Kids</span>
+          <strong>兒童雙語 on Air</strong>
+        </button>
+      </nav>
+
       <section class="player-band" aria-label="目前播放">
         <div class="art-panel" id="artPanel">
           <span class="art-icon" id="artIcon" aria-hidden="true">📰</span>
@@ -33,7 +44,7 @@
         </div>
       </section>
 
-      <nav class="tabs" aria-label="逐字稿分段">
+      <nav class="tabs" id="sectionTabs" aria-label="逐字稿分段">
         <button class="tab active" data-section="story" type="button">故事</button>
         <button class="tab" data-section="vocabulary" type="button">單字</button>
         <button class="tab" data-section="quiz" type="button">測驗</button>
@@ -42,7 +53,7 @@
 
       <section class="transcript-panel" aria-label="逐字稿">
         <pre id="transcriptText">載入中...</pre>
-        <a id="sourceLink" class="source-link" href="#" target="_blank" rel="noreferrer">ICRT 原始頁面</a>
+        <a id="sourceLink" class="source-link" href="#" target="_blank" rel="noreferrer">原始節目頁面</a>
       </section>
 
       <section class="library-section" aria-label="所有新聞">
@@ -70,7 +81,7 @@
     </main>
 
     <footer>
-      <p>內容來源：ICRT News Lunchbox。此小站整理給家人練習聽讀使用。</p>
+      <p id="sourceText">內容來源：ICRT News Lunchbox。此小站整理給家人練習聽讀使用。</p>
       <p id="updatedText"></p>
     </footer>
 

@@ -1,10 +1,12 @@
-# Eason & Eddie ICRT News for Kids
+# Eason & Eddie 雙語收聽小站
 
-給 Eason 和 Eddie 練習英文聽讀的 ICRT News for Kids（國小）網站。
+給 Eason 和 Eddie 練習英文聽讀的雙語節目網站。
 
 ## 網站內容
 
 - 最近一年 ICRT News for Kids（國小）
+- 最近一年 NER Kids X 兒童雙語 on Air
+- 可切換頻道
 - 可直接播放音檔
 - 故事、單字、測驗、答案分段閱讀
 - 手機友善、大字模式、月份篩選、關鍵字搜尋
@@ -24,13 +26,14 @@ http://localhost:4173
 ## 手動更新資料
 
 ```bash
-npm run update
+npm run update:all
 ```
 
 更新後會改寫：
 
 ```text
 data/episodes.json
+data/ner-kids.json
 ```
 
 ## 部署到 GitHub Pages

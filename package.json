@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "update": "node scripts/fetch-icrt.mjs",
+    "update:ner": "node scripts/fetch-ner.mjs",
+    "update:all": "node scripts/fetch-icrt.mjs && node scripts/fetch-ner.mjs",
     "serve": "python3 -m http.server 4173"
   }
 }
