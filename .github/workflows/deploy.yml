@@ -33,15 +33,15 @@ jobs:
         with:
           node-version: 22
 
-      - name: Update ICRT episodes
-        run: npm run update
+      - name: Update bilingual episodes
+        run: npm run update:all
 
       - name: Save updated episode data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/episodes.json
-          git diff --cached --quiet || git commit -m "Update ICRT episodes"
+          git add data/episodes.json data/ner-kids.json
+          git diff --cached --quiet || git commit -m "Update bilingual episodes"
           git push
 
       - name: Configure Pages
