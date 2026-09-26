@@ -2,13 +2,29 @@
   "source": "NER Kids X 兒童雙語 on Air",
   "sourceUrl": "https://ner-kids.firstory.io/episodes",
   "feedUrl": "https://feed.firstory.me/rss/user/cknk1t0e9ax110816mx6erqrc",
-  "updatedAt": "2026-09-25T00:40:08.554Z",
+  "updatedAt": "2026-09-26T00:45:25.106Z",
   "range": {
-    "start": "2025-09-25",
-    "end": "2026-09-25"
+    "start": "2025-09-26",
+    "end": "2026-09-26"
   },
-  "count": 104,
+  "count": 105,
   "episodes": [
+    {
+      "id": "cmtme4zai09em01u045wchhfg",
+      "date": "2026-09-25",
+      "title": "科技關鍵字 Tech Talk Now 13｜火星也能種菜？太空人的「星球農場」開張啦！🚀",
+      "audio": "https://m.cdn.firstory.me/track/cknk1t0e9ax110816mx6erqrc/cmtme4zai09em01u045wchhfg/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcknk1t0e9ax110816mx6erqrc%2Fcmtme4zai09en01u0h6v9bnf6.mp3?v=1788492309722",
+      "sourcePage": "https://open.firstory.fm/story/cmtme4zai09em01u045wchhfg",
+      "transcript": "🌱🚀 如果被困在火星三年，你要吃什麼？\n\n艙外，是零下數十度的火星。\n艙內，一顆小小的萵苣，正悄悄展開綠葉。🥬\n\n想像一下，一場長達三年的太空任務，沒有補給、沒有超商，更不可能叫外送！📦❌\n\n人類，要靠什麼活下來？\n\n答案可能就是——自己種！🌱\n\n🎧 在一起把農場搬上太空，探索科學家如何研究在極端環境中種植植物，從光線、水分、養分到生長環境，一步步解決太空人的「吃飯大事」！\n\n當人類有一天真的前往火星長期生活，種菜不只是為了吃飽，更可能是我們能不能在另一顆星球生存的重要關鍵。\n\nA farm among the stars. 🌌\n一座屬於太空的星球農場，即將開張！\n\n💡 科技關鍵字 Tech Talk Now！\n邀請大小朋友一起沉浸科技潮流，破解英文密碼！\n\nTech your brain, talk like a pro! 🚀\n\n☆若您對本頻道節目有任何疑問或建議，請e-mail 至：service@ner.gov.tw\n\n#每週六科技關鍵字Tech Talk Now\n\n#每週日英文小玩家 世界大冒險\n\n#想要無廣告收聽更多節目請點選教育電台雙語頻道\n\n#每週六、日更新\n\n-----\n\n🎙教育電臺🎙\n\n📻官網請點選https://www.ner.gov.tw/\n\n🎧親子頻道請點選教育電臺親子頻道\n\n🔗其他節目精選請點選Channel+\n\n-----\n\nApple｜Spotify｜Google｜KKBOX｜Firstory｜SoundOn\n\n搜尋訂閱：NER Kids",
+      "sections": {
+        "story": "🌱🚀 如果被困在火星三年，你要吃什麼？\n\n艙外，是零下數十度的火星。\n艙內，一顆小小的萵苣，正悄悄展開綠葉。🥬\n\n想像一下，一場長達三年的太空任務，沒有補給、沒有超商，更不可能叫外送！📦❌\n\n人類，要靠什麼活下來？\n\n答案可能就是——自己種！🌱\n\n🎧 在一起把農場搬上太空，探索科學家如何研究在極端環境中種植植物，從光線、水分、養分到生長環境，一步步解決太空人的「吃飯大事」！\n\n當人類有一天真的前往火星長期生活，種菜不只是為了吃飽，更可能是我們能不能在另一顆星球生存的重要關鍵。\n\nA farm among the stars. 🌌\n一座屬於太空的星球農場，即將開張！\n\n💡 科技關鍵字 Tech Talk Now！\n邀請大小朋友一起沉浸科技潮流，破解英文密碼！\n\nTech your brain, talk like a pro! 🚀\n\n☆若您對本頻道節目有任何疑問或建議，請e-mail 至：service@ner.gov.tw\n\n#每週六科技關鍵字Tech Talk Now\n\n#每週日英文小玩家 世界大冒險\n\n#想要無廣告收聽更多節目請點選教育電台雙語頻道\n\n#每週六、日更新\n\n-----\n\n🎙教育電臺🎙\n\n📻官網請點選https://www.ner.gov.tw/\n\n🎧親子頻道請點選教育電臺親子頻道\n\n🔗其他節目精選請點選Channel+\n\n-----\n\nApple｜Spotify｜Google｜KKBOX｜Firstory｜SoundOn\n\n搜尋訂閱：NER Kids"
+      },
+      "illustration": {
+        "icon": "🤖",
+        "theme": "tech",
+        "label": "科技英語"
+      }
+    },
     {
       "id": "cmtmel2ao0dhl01yb8zq6fqay",
       "date": "2026-09-19",
@@ -45,11 +61,11 @@
       "id": "cmtmeep5a084401u43ebuctbo",
       "date": "2026-09-12",
       "title": "✈️英文小玩家 世界大冒險！｜11 無尾熊、袋鼠集合！認識澳洲限定的動物明星",
-      "audio": "https://m.cdn.firstory.me/track/cknk1t0e9ax110816mx6erqrc/cmtmeep5a084401u43ebuctbo/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcknk1t0e9ax110816mx6erqrc%2Fcmtmeep5b084501u4003ua28t.mp3?v=1789355647219",
+      "audio": "https://m.cdn.firstory.me/track/cknk1t0e9ax110816mx6erqrc/cmtmeep5a084401u43ebuctbo/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcknk1t0e9ax110816mx6erqrc%2Fcmtmeep5b084501u4003ua28t.mp3?v=1790175859604",
       "sourcePage": "https://open.firstory.fm/story/cmtmeep5a084401u43ebuctbo",
-      "transcript": "2026台灣設計展，桃園都發局以「有聚．有落．有生活，2040桃園聚」為核心，透過大型城市模型、沉浸影像與互動遊戲，邀請你參與未來城市的想像。\n\nA2展區《城市脈搏，跳動未來》\n\n日期：9月24日~10月11日\n\n時間：平日10:00-18:00；假日10:00-20:00\n\n地點：桃園會展中心\n\nhttps://fstry.pse.is/9lppck\n\n \n\n—— 以上為 Firstory Podcast 廣告 ——\n\n \n\n  \n ✈️🇦🇺 英文小玩家航空準備起飛！\n\n歡迎所有的乘客，搭乘 英文小玩家航空～\n今天我們要降落的地方，可是名副其實的動物天堂——澳洲！\n\n有喜歡抱著樹休息的無尾熊🐨、蹦蹦跳跳的袋鼠🦘，還有好多只有來到澳洲，才有機會遇見的神奇動物！\n\n🎧 在這集 《英文小玩家 世界大冒險！｜11 澳洲系列－動物篇》，今天的目標任務就是——認識四種澳洲代表性動物，看看牠們有哪些有趣又特別的生活習性，同時學會實用的英文片語！\n\n動物的英文你可能會說，但要怎麼用英文描述牠們的特色呢？跟著英文小玩家邊看動物、邊學英文，一起展開澳洲野生動物大冒險！🔍🌏\n\n🎒 Ready for today's mission?\nLet's learn English and explore Australia!\n\n👨‍👩‍👧‍👦 大小朋友一起收聽，從孩子最喜歡的動物出發，認識澳洲生態，也讓英文學習變得更有趣！\n\n☆若您對本頻道節目有任何疑問或建議，請e-mail 至：service@ner.gov.tw\n\n#每週六科技關鍵字Tech Talk Now\n\n#每週日英文小玩家 世界大冒險\n\n#想要無廣告收聽更多節目請點選教育電台雙語頻道\n\n#每週六、日更新\n\n-----\n\n🎙教育電臺🎙\n\n📻官網請點選https://www.ner.gov.tw/\n\n🎧親子頻道請點選教育電臺親子頻道\n\n🔗其他節目精選請點選Channel+\n\n-----\n\nApple｜Spotify｜Google｜KKBOX｜Firstory｜SoundOn\n\n搜尋訂閱：NER Kids",
+      "transcript": "✈️🇦🇺 英文小玩家航空準備起飛！\n\n歡迎所有的乘客，搭乘 英文小玩家航空～\n今天我們要降落的地方，可是名副其實的動物天堂——澳洲！\n\n有喜歡抱著樹休息的無尾熊🐨、蹦蹦跳跳的袋鼠🦘，還有好多只有來到澳洲，才有機會遇見的神奇動物！\n\n🎧 在這集 《英文小玩家 世界大冒險！｜11 澳洲系列－動物篇》，今天的目標任務就是——認識四種澳洲代表性動物，看看牠們有哪些有趣又特別的生活習性，同時學會實用的英文片語！\n\n動物的英文你可能會說，但要怎麼用英文描述牠們的特色呢？跟著英文小玩家邊看動物、邊學英文，一起展開澳洲野生動物大冒險！🔍🌏\n\n🎒 Ready for today's mission?\nLet's learn English and explore Australia!\n\n👨‍👩‍👧‍👦 大小朋友一起收聽，從孩子最喜歡的動物出發，認識澳洲生態，也讓英文學習變得更有趣！\n\n☆若您對本頻道節目有任何疑問或建議，請e-mail 至：service@ner.gov.tw\n\n#每週六科技關鍵字Tech Talk Now\n\n#每週日英文小玩家 世界大冒險\n\n#想要無廣告收聽更多節目請點選教育電台雙語頻道\n\n#每週六、日更新\n\n-----\n\n🎙教育電臺🎙\n\n📻官網請點選https://www.ner.gov.tw/\n\n🎧親子頻道請點選教育電臺親子頻道\n\n🔗其他節目精選請點選Channel+\n\n-----\n\nApple｜Spotify｜Google｜KKBOX｜Firstory｜SoundOn\n\n搜尋訂閱：NER Kids",
       "sections": {
-        "story": "2026台灣設計展，桃園都發局以「有聚．有落．有生活，2040桃園聚」為核心，透過大型城市模型、沉浸影像與互動遊戲，邀請你參與未來城市的想像。\n\nA2展區《城市脈搏，跳動未來》\n\n日期：9月24日~10月11日\n\n時間：平日10:00-18:00；假日10:00-20:00\n\n地點：桃園會展中心\n\nhttps://fstry.pse.is/9lppck\n\n \n\n—— 以上為 Firstory Podcast 廣告 ——\n\n \n\n  \n ✈️🇦🇺 英文小玩家航空準備起飛！\n\n歡迎所有的乘客，搭乘 英文小玩家航空～\n今天我們要降落的地方，可是名副其實的動物天堂——澳洲！\n\n有喜歡抱著樹休息的無尾熊🐨、蹦蹦跳跳的袋鼠🦘，還有好多只有來到澳洲，才有機會遇見的神奇動物！\n\n🎧 在這集 《英文小玩家 世界大冒險！｜11 澳洲系列－動物篇》，今天的目標任務就是——認識四種澳洲代表性動物，看看牠們有哪些有趣又特別的生活習性，同時學會實用的英文片語！\n\n動物的英文你可能會說，但要怎麼用英文描述牠們的特色呢？跟著英文小玩家邊看動物、邊學英文，一起展開澳洲野生動物大冒險！🔍🌏\n\n🎒 Ready for today's mission?\nLet's learn English and explore Australia!\n\n👨‍👩‍👧‍👦 大小朋友一起收聽，從孩子最喜歡的動物出發，認識澳洲生態，也讓英文學習變得更有趣！\n\n☆若您對本頻道節目有任何疑問或建議，請e-mail 至：service@ner.gov.tw\n\n#每週六科技關鍵字Tech Talk Now\n\n#每週日英文小玩家 世界大冒險\n\n#想要無廣告收聽更多節目請點選教育電台雙語頻道\n\n#每週六、日更新\n\n-----\n\n🎙教育電臺🎙\n\n📻官網請點選https://www.ner.gov.tw/\n\n🎧親子頻道請點選教育電臺親子頻道\n\n🔗其他節目精選請點選Channel+\n\n-----\n\nApple｜Spotify｜Google｜KKBOX｜Firstory｜SoundOn\n\n搜尋訂閱：NER Kids"
+        "story": "✈️🇦🇺 英文小玩家航空準備起飛！\n\n歡迎所有的乘客，搭乘 英文小玩家航空～\n今天我們要降落的地方，可是名副其實的動物天堂——澳洲！\n\n有喜歡抱著樹休息的無尾熊🐨、蹦蹦跳跳的袋鼠🦘，還有好多只有來到澳洲，才有機會遇見的神奇動物！\n\n🎧 在這集 《英文小玩家 世界大冒險！｜11 澳洲系列－動物篇》，今天的目標任務就是——認識四種澳洲代表性動物，看看牠們有哪些有趣又特別的生活習性，同時學會實用的英文片語！\n\n動物的英文你可能會說，但要怎麼用英文描述牠們的特色呢？跟著英文小玩家邊看動物、邊學英文，一起展開澳洲野生動物大冒險！🔍🌏\n\n🎒 Ready for today's mission?\nLet's learn English and explore Australia!\n\n👨‍👩‍👧‍👦 大小朋友一起收聽，從孩子最喜歡的動物出發，認識澳洲生態，也讓英文學習變得更有趣！\n\n☆若您對本頻道節目有任何疑問或建議，請e-mail 至：service@ner.gov.tw\n\n#每週六科技關鍵字Tech Talk Now\n\n#每週日英文小玩家 世界大冒險\n\n#想要無廣告收聽更多節目請點選教育電台雙語頻道\n\n#每週六、日更新\n\n-----\n\n🎙教育電臺🎙\n\n📻官網請點選https://www.ner.gov.tw/\n\n🎧親子頻道請點選教育電臺親子頻道\n\n🔗其他節目精選請點選Channel+\n\n-----\n\nApple｜Spotify｜Google｜KKBOX｜Firstory｜SoundOn\n\n搜尋訂閱：NER Kids"
       },
       "illustration": {
         "icon": "✈️",
